@@ -2,7 +2,7 @@
 
 _Implementation of Superdense Coding using Qiskit._
 
-Superdense Coding is a way to communicate **two classical bits** of information using a **quantum channel** of communication. Only **one qubit** is transferred and the communicaiton is **not** faster than light.
+Superdense Coding is a way to communicate **two classical bits** of information using a **quantum channel** of communication. Only **one qubit** is transferred and the communication is **not** faster than light.
 
 Let's say ```Alice``` wants to send two classical bits of information to ```Bob```.
 - They must share an **entangled pair of qubits** for it to work. 
